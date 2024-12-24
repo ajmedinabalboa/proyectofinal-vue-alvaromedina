@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Leche",
+      "precio": 1.2,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "nombre": "asasdsa",
+      "precio": 454,
+      "categoriaId": 1
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Frutas"
+    },
+    {
+      "id": 2,
+      "nombre": "Lácteos"
+    },
+    {
+      "id": 3,
+      "nombre": "Legumbres"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "email": "juan.perez@example.com"
+    },
+    {
+      "id": 3,
+      "nombre": "dfgdfgdfgfdg",
+      "email": "asdasdasda@asd.com"
+    },
+    {
+      "id": 4,
+      "nombre": "svsds",
+      "email": "svsvsd@asdsad.com"
+    },
+    {
+      "id": 5,
+      "nombre": "dfsdfdsf",
+      "email": "sdfdsf@asd.com"
+    }
+  ]
+}

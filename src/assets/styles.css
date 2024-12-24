@@ -1,0 +1,30 @@
+.page-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .table th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+  }
+  
+  .table td {
+    text-align: center;
+  }
+  
+  .btn {
+    margin: 0 5px;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
